@@ -1,3 +1,6 @@
 [submodule "ManejadorCheckpoint"]
 	path = ManejadorCheckpoint
 	url = https://github.com/Melky92/ManejadorCheckpoint
+[submodule "Arduino-Bluetooth-HackBo"]
+	path = Arduino-Bluetooth-HackBo
+	url = https://github.com/jupaesbri/Arduino-Bluetooth-HackBo
