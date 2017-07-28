@@ -4,3 +4,6 @@
 [submodule "Arduino-Bluetooth-HackBo"]
 	path = Arduino-Bluetooth-HackBo
 	url = https://github.com/jupaesbri/Arduino-Bluetooth-HackBo
+[submodule "Checkpoint-ReactNative"]
+	path = Checkpoint-ReactNative
+	url = https://github.com/FavioHurtado/Checkpoint-ReactNative
