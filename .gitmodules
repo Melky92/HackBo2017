@@ -1,0 +1,3 @@
+[submodule "ManejadorCheckpoint"]
+	path = ManejadorCheckpoint
+	url = https://github.com/Melky92/ManejadorCheckpoint
